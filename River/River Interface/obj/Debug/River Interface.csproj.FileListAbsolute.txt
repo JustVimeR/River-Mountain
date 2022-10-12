@@ -1,0 +1,8 @@
+D:\ProgramFiles\River\River Interface\bin\Debug\River Interface.exe.config
+D:\ProgramFiles\River\River Interface\bin\Debug\River Interface.exe
+D:\ProgramFiles\River\River Interface\bin\Debug\River Interface.pdb
+D:\ProgramFiles\River\River Interface\obj\Debug\River Interface.csproj.AssemblyReference.cache
+D:\ProgramFiles\River\River Interface\obj\Debug\River Interface.csproj.SuggestedBindingRedirects.cache
+D:\ProgramFiles\River\River Interface\obj\Debug\River Interface.csproj.CoreCompileInputs.cache
+D:\ProgramFiles\River\River Interface\obj\Debug\River Interface.exe
+D:\ProgramFiles\River\River Interface\obj\Debug\River Interface.pdb
